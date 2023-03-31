@@ -1,0 +1,13 @@
+#header2{
+    min-height :100vh;
+    width :100%;
+    background-image: linear-gradient(rgba(57, 77, 156, 0.424),rgba(57, 77, 156, 0.451));
+    background-position: center;
+    background-size: cover ;
+    position: relative;
+  }
+  #header2 h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 4em;
+  }
